@@ -6,7 +6,7 @@ import { Phone, MapPin, Clock, Wrench, Car, Zap, Shield, Mail } from "lucide-rea
 import { SimpleThemeToggle } from "@/components/simple-theme-toggle"
 
 // Toggle this flag to show/hide the special hours banner
-const SHOW_SPECIAL_HOURS_BANNER = false
+const SHOW_SPECIAL_HOURS_BANNER = true
 const BUSINESS_NAME = "Nashville Auto Services And Motorsports"
 const SPECIAL_MESSAGE = "Closed Dec 24-26 for Holiday | Extended Hours: Open until 8 PM Mon-Wed this week"
 const PHONE_NUMBER_NO_DASH = "6159684009"
